@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.1
+wikipedia==1.4.0
+opencc-python-reimplemented==0.1.5
+jieba==0.40
